@@ -1,1 +1,1 @@
-# SynapseExperiments
+# Synapse Experiments
