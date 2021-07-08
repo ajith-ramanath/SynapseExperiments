@@ -1,0 +1,10 @@
+{
+	"name": "AzureDataLakeStorage1",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/29f274c8-d601-461a-807b-0dfc3bff363b/resourceGroups/CentricaTesting_ne_rg/providers/Microsoft.Storage/storageAccounts/customerjourneyssa",
+		"groupId": "dfs",
+		"fqdns": [
+			"customerjourneyssa.dfs.core.windows.net"
+		]
+	}
+}

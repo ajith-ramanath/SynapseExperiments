@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--ajithsynapseuksouth",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/29f274c8-d601-461a-807b-0dfc3bff363b/resourceGroups/CentricaTesting_ne_rg/providers/Microsoft.Synapse/workspaces/ajithsynapseuksouth",
+		"groupId": "sql",
+		"fqdns": [
+			"ajithsynapseuksouth.e9e85e91-8052-4b1d-8351-5fa52efe3ff6.sql.azuresynapse.net"
+		]
+	}
+}
