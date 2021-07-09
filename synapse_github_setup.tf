@@ -29,7 +29,7 @@ resource "azurerm_synapse_workspace" "synapse-experiments-ws" {
   location                             = azurerm_resource_group.synapse-experiments-rg.location
   storage_data_lake_gen2_filesystem_id = azurerm_storage_data_lake_gen2_filesystem.synapse-experiments-fs.id
   sql_administrator_login              = "sqladminuser"
-  sql_administrator_login_password     = "Qwe12rty!!"
+  sql_administrator_login_password     = "Password_123"
 
   github_repo {
       account_name = "ajith-ramanath"
